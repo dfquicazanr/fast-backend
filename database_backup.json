@@ -1,0 +1,36 @@
+{
+  "clubs": [
+    {
+      "club_members": [
+        {
+          "name": "Peter",
+          "age": 30
+        },
+        {
+          "name": "David",
+          "age": 40
+        }
+      ],
+      "club_name": "Ivy",
+      "club_address": "Longpipe road"
+    },
+    {
+      "club_members": [
+        {
+          "name": "Mike",
+          "age": 35
+        },
+        {
+          "name": "Lucas",
+          "age": 32
+        },
+        {
+          "name": "Fann",
+          "age": 39
+        }
+      ],
+      "club_name": "Daisy",
+      "club_address": "Bradford road"
+    }
+  ]
+}
